@@ -1,5 +1,5 @@
 # face detect 
-This project is an implementation of a face detector which is researched by Hanzhou Qiantu Technology Copyright.
+This project is an implementation of a face detector which is researched by Hangzhou Qiantu Technology Copyright.
 
 ## Attention
 Before you download, copy, or view sources file of this project, you must obeyed the following regulations,

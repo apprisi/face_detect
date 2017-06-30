@@ -28,6 +28,7 @@ If you like this project and want to help us, you may joint or denote us.
 ## Contact 
 * email: <business@qiantuai.com>
 * website: [http://www.qiantuai.com](http://www.qiantuai.com)
+* qq群： 535810799
 
 If you want more help, you may send email to us. 
 
